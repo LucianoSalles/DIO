@@ -1,0 +1,15 @@
+msfadmin
+admin
+administrator
+root
+user
+guest
+ftp
+service
+postgres
+sys
+klog
+daemon
+bin
+test
+tomcat
