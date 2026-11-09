@@ -1,0 +1,13 @@
+# Saídas de execução / logs
+*.log
+medusa.log
+output/
+results/
+
+# Wordlists pesadas (não versionar rockyou etc.)
+rockyou.txt
+*.gz
+
+# Sistema
+.DS_Store
+Thumbs.db
